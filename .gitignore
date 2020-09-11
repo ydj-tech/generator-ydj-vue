@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 node_modules 
+=======
+node_modules/
+bower_components/
+*.log
+
+build/
+dist/
+>>>>>>> 8c90cbb0cb717ca1fe1d83b45be18c01550d7c31
